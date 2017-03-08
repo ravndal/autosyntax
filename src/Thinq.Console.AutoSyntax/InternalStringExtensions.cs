@@ -2,7 +2,7 @@ using System;
 
 namespace Thinq.Console.AutoSyntax
 {
-	internal static class ConsoleExtensions
+	internal static class InternalStringExtensions
 	{
 
 

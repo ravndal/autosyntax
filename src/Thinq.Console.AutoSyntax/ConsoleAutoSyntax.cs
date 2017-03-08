@@ -10,7 +10,7 @@ namespace Thinq.Console.AutoSyntax
 
 		public static void Apply<TClass>(TClass obj, string[] args) where TClass : class
 		{
-			ConsoleInputHelper.Run(obj, args);
+			ConsoleInputParser.Run(obj, args);
 		}
 	}
 }

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Console.AutoSyntax</id>
+    <version>1.0.0</version>
+    <title>Console Autosytax</title>
+    <authors>Kristian Ravndal</authors>
+    <owners>Thinq Development, Kristian Ravndal</owners>
+    <licenseUrl>https://raw.githubusercontent.com/ravndal/autosyntax/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ravndal/autosyntax</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A super easy way to turn arguments for a console application into real values, and then pass them to a fitting method</description>
+    <copyright>Copyright Kristian Ravndal 2017</copyright>
+    <tags>Console, Syntax, ConsoleApp</tags>
+  </metadata>
+</package>

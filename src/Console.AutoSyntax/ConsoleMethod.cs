@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
 
-namespace Thinq.Console.AutoSyntax
+namespace Console.AutoSyntax
 {
 	internal class ConsoleMethod
 	{

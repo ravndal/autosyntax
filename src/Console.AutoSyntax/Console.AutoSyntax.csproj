@@ -7,8 +7,8 @@
     <ProjectGuid>{D177E150-EA8A-447D-81FC-AAFC520219D2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Thinq.Console.AutoSyntax</RootNamespace>
-    <AssemblyName>Thinq.Console.AutoSyntax</AssemblyName>
+    <RootNamespace>Console.AutoSyntax</RootNamespace>
+    <AssemblyName>Console.AutoSyntax</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -51,7 +51,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Thinq.Console.AutoSyntax.nuspec" />
+    <None Include="Console.AutoSyntax.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

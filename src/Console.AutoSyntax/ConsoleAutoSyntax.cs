@@ -1,6 +1,4 @@
-using System.Dynamic;
-
-namespace Thinq.Console.AutoSyntax
+namespace Console.AutoSyntax
 {
 	public static class ConsoleAutoSyntax
 	{

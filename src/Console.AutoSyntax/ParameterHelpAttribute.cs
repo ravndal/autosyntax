@@ -1,6 +1,6 @@
 using System;
 
-namespace Thinq.Console.AutoSyntax
+namespace Console.AutoSyntax
 {
 	[AttributeUsage(AttributeTargets.Method, AllowMultiple = true)]
 	public class ParameterHelpAttribute : Attribute

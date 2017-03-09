@@ -1,6 +1,6 @@
 using System;
 
-namespace Thinq.Console.AutoSyntax
+namespace Console.AutoSyntax
 {
 	internal static class InternalStringExtensions
 	{
